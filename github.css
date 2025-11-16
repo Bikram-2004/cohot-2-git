@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+button{
+    background-color: white;
+    color: blue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 50%;
+}
